@@ -1,4 +1,4 @@
-<?php function sehir($a){
+<?php function sehirseo($a){
 	if ($a == "adana") { $a = "Adana"; echo $a; }
 	elseif ($a == "adiyaman") { $a = "Adıyaman"; echo $a; }
 	elseif ($a == "afyonkarahisar") { $a = "Afyonkarahisar"; echo $a; }
